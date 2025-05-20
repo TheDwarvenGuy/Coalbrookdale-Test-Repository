@@ -1,0 +1,105 @@
+Resource list:
+
+Labor
+ Farmers
+ Clerks
+ Workers
+ Landlords
+ Academics
+ Capitalists
+
+Rural
+ Feed
+ Livestock
+ Horses
+
+Food
+ Grain
+ Fruit
+ Groceries
+ Vegetables
+ Meat
+ Beer
+
+Luxury
+ Wine
+ Spirits
+
+Materials
+ Coal
+ Ore
+ Oil
+ Wood
+ Fiber
+
+Produced Materials
+ Iron
+ Steel
+ Chemicals
+ Paper
+
+Information
+ Mail
+ Telecommunications
+ Newspaper
+ Books
+
+Industrial
+ Tools
+ Machinery //Either merge machinery and metalworks or machinery and tools. Generally represents high quality 
+ Metalworks
+ Engines
+
+Gizmos //
+ Appliances
+ Electronics
+ Automobiles
+
+Externalities //Goods you want to get rid of
+ Outgoing Mail //Disrupts the mail system. Only removed in small quantities by buildings, must be exported 
+ Sewage
+ Garbage
+
+
+
+
+
+Wheat Farm
+
+ Basic PM
+	Default (-4 farmers +4 wheat)
+
+ Fertilization
+	Fallow (no modifiers)
+	Clover (+1 livestock, +0.25 modifiers)
+	Nightsoil (-1 sewage, +0.25 modifiers)
+	Fertilizer (-2 chemicals, +1 modifiers)
+		
+ Automation
+	None
+	Basic equipment (-1 tools +1 modifiers)
+	Ploughs (-1 tools, -2 horses, +2 modifiers)
+	Farm Engines (-1 machinery, -0.5 coal, -0.1 engines, +4 modifiers)
+	Tractors (-1 machinery, -1 oil, -0.1 Automobiles)
+
+ Weather prediction
+	None (no modifiers)
+	Farmer's Almanac (- 0.25 books, -0.25 mail, +0.25 modifiers)
+	Farming Periodical (-0.5 Newspaper, -0.5 mail, + 0.5 modifiers)
+	Weather Radio (-0.1 electronics, -3 Telecommunications, +1 modifiers)
+
+
+Blacksmith //Small artisanal building, highly adaptable to fit the needs of any small community and adapt to industrialization
+ Basic
+	Bloomery (-1 ore, +1 steel)
+	Iron tools (-1 iron, +1 tools)
+	Steel tools (-1 steel +3 tools)
+	Case hardening (-1 iron, +1 steel)
+	Tinkerer (-1 iron, +1 machinery)
+ Equipment
+	Forge
+	
+
+
+
+

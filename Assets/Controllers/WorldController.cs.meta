@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1bdb349c6bc218b4c88f2db63994d0bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - grassSprite: {fileID: 21300000, guid: cd162de85a58e5e4293b1b68bb6bb1c9, type: 3}
+  - waterSprite: {fileID: 21300000, guid: 4f83873e28c4e0e4bbdd2db21ed85d89, type: 3}
+  - highlandSprite: {fileID: 21300000, guid: 8e7796d008f00b146af3a95e14da3747, type: 3}
+  - buildingsprite: {fileID: 21300000, guid: 8a616d189f81c0b4bb25f6fed8378b7d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

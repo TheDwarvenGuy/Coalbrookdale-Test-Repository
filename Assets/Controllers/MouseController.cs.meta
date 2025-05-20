@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dfe980c212de4a642ba89a6c82d08ff2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - menu_text: {instanceID: 0}
+  - cursor: {fileID: 8069025550481357377, guid: 2ca2c78b3f90b1b418a458778cc06e7a,
+      type: 3}
+  - citySprite: {fileID: 21300000, guid: ed5a2db77b9de684c9d55e2c15850d91, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
